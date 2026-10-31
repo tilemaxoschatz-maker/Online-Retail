@@ -4,7 +4,10 @@ An end-to-end analytics project on two years of transactions from a UK online gi
 
 **Headline result:** net revenue was **19.0M** from **40,077 orders** and **5,878 customers**. 16.6% of customers (10+ orders) generate 68.3% of net revenue, and the largest 10% of orders generate 47.8%.
 
-![Sales overview dashboard](images/01_sales_overview.png)
+![Sales overview dashboard]
+<p align="center">
+  <img src="https://github.com/tilemaxoschatz-maker/Online-Retail/blob/main/dashboard_review/Screenshot%202026-10-31%20112017.png">
+</p>
 
 ---
 
@@ -111,7 +114,10 @@ The Power BI report has three pages. It reads seven small aggregated views (`v_*
 
 KPI cards (net and gross revenue, cancelled value and share, orders, customers), monthly net versus gross revenue, and the top 10 countries by net revenue.
 
-![Sales overview](images/01_sales_overview.png)
+![Sales overview]
+<p align="center">
+  <img src="https://github.com/tilemaxoschatz-maker/Online-Retail/blob/main/dashboard_review/Screenshot%202026-10-31%20112017.png">
+</p>
 
 - Revenue peaks every autumn (November net revenue: 1.42M in 2010, 1.46M in 2011).
 - The gap between the gross and net lines is the revenue lost to cancellations.
@@ -119,7 +125,11 @@ KPI cards (net and gross revenue, cancelled value and share, orders, customers),
 
 ### 2. Customers and orders
 
-![Customers and orders](images/02_customers_and_orders.png)
+![Customers and orders]
+<p align="center">
+  <img src="https://github.com/tilemaxoschatz-maker/Online-Retail/blob/main/dashboard_review/Screenshot%202026-10-31%20112037.png">
+</p>
+
 
 - 27.6% of customers bought only once and generate 3.2% of net revenue.
 - 16.6% of customers placed 10 or more orders and generate 68.3%.
@@ -127,7 +137,10 @@ KPI cards (net and gross revenue, cancelled value and share, orders, customers),
 
 ### 3. When orders arrive
 
-![When orders arrive](images/03_when_orders_arrive.png)
+![When orders arrive]
+<p align="center">
+  <img src="https://github.com/tilemaxoschatz-maker/Online-Retail/blob/main/dashboard_review/Screenshot%202026-10-31%20112052.png">
+</p>
 
 - Thursday has the most orders (20.7%). Saturday is almost empty (30 orders in two years).
 - About 78% of orders arrive between 10:00 and 15:59, with the peak at 12:00.
