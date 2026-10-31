@@ -147,7 +147,7 @@ KPI cards (net and gross revenue, cancelled value and share, orders, customers),
 
 ## Business questions and findings
 
-All queries are in [`sql/online_retail_full_workbook.sql`](sql/online_retail_full_workbook.sql), each with the decision it supports, the definition used, the finding and caveats.
+All queries are in [`sql/online_retail_full_workbook.sql`](https://github.com/tilemaxoschatz-maker/Online-Retail/blob/main/online%20retail.sql), each with the decision it supports, the definition used, the finding and caveats.
 
 | # | Question | Finding |
 |---|---|---|
@@ -211,6 +211,6 @@ online-retail-analysis/
 
 ## Author
 
-[Your name] · [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
+[Tilemachos Chatzivasileiou] · [LinkedIn](https://www.linkedin.com/in/tilemachos-chatzivasileiou-1777ba400/) · [GitHub](https://github.com/tilemaxoschatz-maker)
 
 *Data: UCI Machine Learning Repository, Online Retail II, licensed under CC BY 4.0.*
